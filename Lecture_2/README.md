@@ -32,7 +32,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-Set your OpenWeatherMap API key as an environment variable:
+Set your OpenWeatherMap API key as an environment variable: 
+
+Additionally the API key can be put locally as hardcoded in the code.
 
 export OPENWEATHER_API_KEY="your_api_key_here"
 
